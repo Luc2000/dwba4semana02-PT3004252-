@@ -1,1 +1,7 @@
 html{ scroll-behavior: smooth;}
+.mt-10{margin-top: 10px}
+
+
+.top-menu{display: flex; justify-content: end;flex-wrap: nowrap}
+.top-menu a{ margin-right: 5px}
+.top-menu a:last-child{ margin-right: 0px}
